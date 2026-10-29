@@ -1,0 +1,6 @@
+{
+  "name": "EcoRecicla PWA - Gestión de Báscula y Patio",
+  "description": "Sistema PWA integral para empresas recicladoras y centros de acopio: control de compras en báscula (bruto, tara, neto), deducción de mermas, inventario de patio, ventas mayoristas y arqueo de caja con soporte offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
